@@ -501,10 +501,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "../KiCAD Exports/SuperHAT/",
+      "plot": "C:/KiCAD/KiCAD Exports/SuperHAT/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../KiCAD Exports/SuperHAT V2.step",
       "svg": "",
       "vrml": ""
     },
